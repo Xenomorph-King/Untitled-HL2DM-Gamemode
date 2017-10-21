@@ -1,0 +1,7 @@
+"liro"
+{
+	"base"		"base"
+	"title"		"HL2 DM PROTOTYPE"
+	"maps"		"^dm_"
+	"menusystem"	"1"
+}

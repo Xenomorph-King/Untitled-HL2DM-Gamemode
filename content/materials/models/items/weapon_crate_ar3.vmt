@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "Models/Items/weapon_crate_ar3"
+}

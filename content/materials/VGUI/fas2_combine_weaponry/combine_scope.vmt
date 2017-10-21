@@ -1,0 +1,8 @@
+"Modulate"
+{
+	"$znearer" 1
+	"$basetexture" "VGUI/fas2_combine_weaponry/combine_scope"
+	"$translucent" "1"
+	"$additive" "1"
+	"$mod2x" "1"
+}

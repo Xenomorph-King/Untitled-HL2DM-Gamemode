@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"vgui/hud_front"
+	"$vertexcolor" 		1
+	"$vertexalpha" 		1
+	"$nolod" 			1
+}

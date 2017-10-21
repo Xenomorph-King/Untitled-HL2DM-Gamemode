@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/fas2_combine_weaponry/combine_scope2"
+	"$translucent"		"1"
+	"$ignorez"			"1"
+		"$additive" "1"
+	"$no_fullbright"	1
+		"$znearer" 1
+}

@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/entities/fas2_cweaponry_ar1_m2"
+	"$nolod" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}
